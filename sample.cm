@@ -1,0 +1,8 @@
+int add(int a, int b) {
+    return a + b;
+}
+int main(void) {
+    int x = add(10, 32);
+    if (x == 42) return 0;
+    return 1;
+}
