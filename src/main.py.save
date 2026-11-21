@@ -1,0 +1,15 @@
+def main():
+    print("====================================")
+    print("          C MINOR COMPILER")
+    print("====================================")
+    print("Implementation : Python")
+    print("Backend        : LLVM")
+    print("Target         : Linux x86-64")
+    print("Version        : 1.0")
+    print("Current Phase  : M1 - Environment")
+    print("====================================")
+
+
+if __name__ == "__main__":
+    main()
+
